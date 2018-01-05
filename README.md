@@ -1,6 +1,6 @@
-# React-Notes
+# React-Short-Notes
 
-A very simple note taking app, built with:
+A very simple short note taking app, built with:
 
 * React
 * Redux
@@ -10,7 +10,7 @@ A very simple note taking app, built with:
 * ES6
 * Webpack
 
-You can create, edit and delete notes, persistence is handled with localstorage. No validation because I got bored.
+You can create, edit and delete notes, persistence is handled with localstorage. No validation added.
 
 To run use:
 

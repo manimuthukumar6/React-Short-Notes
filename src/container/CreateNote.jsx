@@ -38,7 +38,8 @@ class CreateNoteComponent extends React.Component {
     } else {
       action = editNote(...formVals, this.state.id);
     }
-    dispatch(action)
+    debugger;
+    dispatch(action);
     dispatch(routeActions.push('/'));
   }
   render() {
